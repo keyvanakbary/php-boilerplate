@@ -1,0 +1,25 @@
+{
+    "name": "keyvanakbary/php-boilerplate",
+    "description": "PHP boilerplate",
+    "keywords": ["php boilerplate"],
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Keyvan Akbary",
+            "email": "kiwwito@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "require-dev": {
+        "mockery/mockery": "*",
+        "phpunit/phpunit": "3.7.*"
+    },
+    "autoload": {
+        "psr-0": { "": "src/" }
+    },
+    "config": {
+        "bin-dir": "bin"
+    }
+}
