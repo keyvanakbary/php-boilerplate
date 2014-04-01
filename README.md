@@ -7,10 +7,9 @@ Boilerplate for PHP projects. It includes [PHPUnit](https://github.com/sebastian
 
 Usage
 -----
-Download and extract the boilerplate
+Download the boilerplate
 
-    curl -sSL https://github.com/keyvanakbary/php-boilerplate/archive/master.zip > tmp.zip &&
-    unzip tmp.zip && rm tmp.zip
+    git clone git@github.com:keyvanakbary/php-boilerplate.git && rm -rf php-boilerplate/.git
 
 Into the project, install and run [Composer](https://getcomposer.org/)
 
