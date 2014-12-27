@@ -2,7 +2,7 @@
 
 [![Build Status](https://secure.travis-ci.org/keyvanakbary/php-boilerplate.svg?branch=master)](http://travis-ci.org/keyvanakbary/php-boilerplate)
 
-Boilerplate for PHP projects. It includes [PHPUnit](https://github.com/sebastianbergmann/phpunit) and [Mockery](https://github.com/padraic/mockery).
+Boilerplate for PHP projects. It includes [PHPUnit](https://github.com/sebastianbergmann/phpunit).
 
 ## Usage
 
