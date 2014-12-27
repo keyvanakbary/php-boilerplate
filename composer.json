@@ -2,6 +2,7 @@
     "name": "keyvanakbary/php-boilerplate",
     "description": "PHP boilerplate",
     "keywords": ["php boilerplate"],
+    "license": "MIT",
     "minimum-stability": "stable",
     "authors": [
         {
